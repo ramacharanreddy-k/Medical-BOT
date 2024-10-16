@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+langchain-pinecone
+pinecone-client
+websocket-client
+streamlit
+watchdog
+matplotlib
+seaborn
